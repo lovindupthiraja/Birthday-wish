@@ -1,0 +1,6 @@
+{
+  "name": "15th Birthday Ribbon Surprise",
+  "description": "A soft-pink Coquette & Y2K interactive birthday surprise with switchable guides, ribbon letter, 15th cake, and digicam Polaroid photobooth.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
